@@ -1,0 +1,27 @@
+{
+  "name": "arscenerendererdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Meishe",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "sass": "^1.52.2",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.6",
+    "arscenerendererdemo": "file:",
+    "axios": "^0.27.2",
+    "element-plus": "^2.2.4",
+    "jszip": "^3.6.0",
+    "meishewasmloader": "^2.0.2",
+    "vue": "^3.2.36"
+  }
+}
